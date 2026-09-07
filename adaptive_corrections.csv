@@ -1,0 +1,18 @@
+text,is_threat,threat_family
+"Sure, click the totally-not-suspicious link. What could possibly go wrong?",1,Phishing & Credential Theft
+Of course the bank needs your password over text. Very professional. Nothing suspicious here at all.,1,Phishing & Credential Theft
+"Relax, I only need your recovery phrase so I can make sure nobody steals your account",1,Data / Secret Exfiltration
+You’ve always been the one person I can count on. Could you make an exception for me this time? I’d really hate for this to become a bigger issue.,1,Social Engineering
+I’m away from my laptop and the client is waiting. Could you approve the change for me? I’ll update the ticket with the proper details when I’m back.,1,Social Engineering
+"Subject: Urgent Account Verification Required
+
+Dear Customer,
+
+We detected unusual activity on your account and have temporarily restricted access.
+
+To restore access, please verify your account information using the secure link below.
+
+Failure to complete verification within 24 hours may result in your account being suspended.
+
+Thank you,
+Account Security Team",1,Phishing & Credential Theft
