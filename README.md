@@ -299,7 +299,7 @@ Character n-grams can capture many of these patterns without relying entirely on
 ### 1. Clone the repository
 
 git clone https://github.com/adiib190808-art/adaptive-threat-detection.git
-cd adaptive-threat-detection 
+cd adaptive-threat-detection  
 
 ### 2. Install dependencies
 
